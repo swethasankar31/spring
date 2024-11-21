@@ -1,0 +1,6 @@
+-- spring hibernate sql query
+ use  june_2024;
+ create table account(name varchar(25),username varchar(20),password varchar(10),email varchar(30));
+ drop table account;
+ desc account;
+ select*from account;
